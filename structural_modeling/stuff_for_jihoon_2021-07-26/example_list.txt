@@ -1,0 +1,3 @@
+LLFGK[LYS:monomethylated]PVAV
+LLFGK[LYS:dimethylated]PVAV
+LLFGK[LYS:lys_trimethylated]PVAV

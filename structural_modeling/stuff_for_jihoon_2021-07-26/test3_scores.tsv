@@ -1,0 +1,3 @@
+peptide	template	bound_score	unbound_score	unbound_score_frozen	binding_energy	binding_energy_frozen
+LLFGK[LYS:monomethylated]PVAV	1qsf.pdb	-85.57307037135777	-27.246986194179442	6.72800162714654	-58.32608417717833	-92.30107199850431
+LLFGK[LYS:dimethylated]PVAV	1qsf.pdb	-92.35300048135815	-28.859719981212322	0.5751880298634546	-63.49328050014583	-92.9281885112216

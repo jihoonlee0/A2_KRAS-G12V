@@ -1,0 +1,5 @@
+KLVVVGAVGV
+K[LYS:monomethylated]LVVVGAVGV
+K[LYS:dimethylated]LVVVGAVGV
+K[LYS:lys_trimethylated]LVVVGAVGV
+K[LYS:acetylated]LVVVGAVGV

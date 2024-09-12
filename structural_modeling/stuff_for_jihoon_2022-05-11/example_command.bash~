@@ -1,0 +1,11 @@
+python3 mhc_peptide_for_jihoon_v2.py --peptides_listfile example_list.txt --pmhc_template_pdbfile 1qsf.pdb --outfile_prefix test3
+ 1134  nice ~/anaconda2/envs/pyrosetta36/bin/python ~/gitrepos/TCRpepMHC/scripts/test_tcrdock2.py > log 2> err &
+ 1155  nice ~/anaconda2/envs/pyrosetta36/bin/python ~/gitrepos/TCRpepMHC/scripts/test_tcrdock2.py > log 2> err &
+ 1162  python ~/code/tcr_scripts/cdr3s_human.py | grep human | grep TRBJ2-1
+ 1163  python ~/code/tcr_scripts/cdr3s_human.py | grep human | grep TRBJ2-7
+ 1206  python ~/python/get_fasta.py  kras_tcr_alphafold_models/A2KRAS02_GA_D-TGNT_model_v1.pdb 
+ 1209  ~/anaconda2/envs/pyrosetta36/bin/python mhc_peptide_tcr_for_jihoon_v2.py --template_pdbfile kras_tcr_alphafold_models/A2KRAS02_GA_D-TGNT_model_v1.pdb --outfile_prefix test4 --peptides_listfile example_list2.txt --debug
+ 1214  ~/anaconda2/envs/pyrosetta36/bin/python mhc_peptide_tcr_for_jihoon_v2.py --template_pdbfile kras_tcr_alphafold_models/A2KRAS02_GA_D-TGNT_model_v1.pdb --outfile_prefix test4 --peptides_listfile example_list2.txt --debug
+ 1216  ~/anaconda2/envs/pyrosetta36/bin/python mhc_peptide_tcr_for_jihoon_v2.py --template_pdbfile kras_tcr_alphafold_models/A2KRAS02_GA_D-TGNT_model_v1.pdb --outfile_prefix test4 --peptides_listfile example_list2.txt 
+ 1220  history | grep python | tail
+ 1221  history | grep python | tail >> example_command.bash 
